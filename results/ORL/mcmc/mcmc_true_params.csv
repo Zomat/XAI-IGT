@@ -1,0 +1,2 @@
+$A_{rew}$ (Reward L-Rate),$A_{pun}$ (Punish L-Rate),$K$ (Decay Rate),$\beta_F$ (Freq Weight),$\beta_P$ (Perseverance)
+0.3,0.5,1.0,1.5,1.0

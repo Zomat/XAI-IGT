@@ -1,0 +1,12 @@
+igt_env/
+__pycache__/
+*.py[cod]
+
+archive_imgs/
+backup_code/
+
+*.png
+*.jpg
+*.jpeg
+
+.DS_Store
