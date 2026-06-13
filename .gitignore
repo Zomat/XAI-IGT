@@ -10,3 +10,5 @@ backup_code/
 *.jpeg
 
 .DS_Store
+
+logs/
